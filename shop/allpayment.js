@@ -1,25 +1,26 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY BAYUU OFC
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ TIDAK TERSEDIA
+		• TIDAK TERSEDIA
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0895 2551 8325
 		• ZE**** **C
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ TIDAK TERSEDIA
+		• TIDAK TERSEDIA
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0812 8586 6502
+		• B***R**
 
 *さ PULSA*
 
-Tidak tersedia
+TELKOMSEL : 0812 8586 6502
+AXIS : 0895 2551 8325
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
